@@ -5,6 +5,7 @@ int main()
   printf("Hello World part 2");
   
   printf("Omkar World");
+  printf("Hindi me bole to omkar babaji ki Duniya ");
 
 
 return 0;
