@@ -6,6 +6,7 @@ int main()
   
   printf("Omkar World");
   printf("Hindi me bole to omkar babaji ki Duniya ");
+  printf("merging to maste branch");
 
 
 return 0;
